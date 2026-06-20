@@ -1,0 +1,4 @@
+namespace fstiAuthorization
+{
+	void checkFSTIregistration();
+}

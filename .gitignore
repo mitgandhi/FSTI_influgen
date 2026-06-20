@@ -1,7 +1,7 @@
 # Build output
-x64/
-Debug/
-Release/
+/x64/
+/Debug/
+/Release/
 
 # VS temp files
 .vs/
