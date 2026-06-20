@@ -1,0 +1,15 @@
+# Build output
+x64/
+Debug/
+Release/
+
+# VS temp files
+.vs/
+*.sdf
+*.suo
+*.user
+*.ncb
+*.opensdf
+
+# Deployment folder (generated)
+influgen_deploy/
